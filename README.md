@@ -11,3 +11,7 @@ Create the HTML and CSS for a webpage. The webpage must be centered around the t
 Design Requirements:
 * Use of external CSS for styling.
 * The design should be responsive and visually appealing.
+
+## Additions
+
+Added working image. 
